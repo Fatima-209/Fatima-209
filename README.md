@@ -1,10 +1,9 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="35%" />
 
-# Hi, I'm Fatima Alaiwi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm Fatima Alaiwi
 ### Programming Student | Software Engineer | Full-Stack Developer
 #### Passionate about full-stack and mobile development, with growing experience in AI and automation — always building, always learning
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1MjVmYTNqd2hkcTB3Z2Nhc3JrbGtlZHpxdndwMjIwMjU4dThwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="80%" />
 
 </div>
 
@@ -56,7 +55,6 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" height="45"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="45"/></a>
 <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" height="45"/></a>
-<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://skillicons.dev/icons?i=xcode" height="45"/></a>
 <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 <a href="https://stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/></a>
 <a href="https://octave.org/" target="_blank"><img src="https://skillicons.dev/icons?i=octave" height="45"/></a>
